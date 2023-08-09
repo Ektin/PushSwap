@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstadd_front.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: Ektin Op Urims <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: Ektin Op Urims <marvin@42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/01/24 17:51:51 by Ektin Op Urims          #+#    #+#             */
-/*   Updated: 2023/01/29 21:18:26 by Ektin Op Urims         ###   ########.fr       */
+/*   Created: 2023/01/24 17:51:51 by Ektin Op Urims    #+#    #+#             */
+/*   Updated: 2023/01/29 21:18:26 by Ektin Op Urims   ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

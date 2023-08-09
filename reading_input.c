@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   reading_input.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: Ektin Op Urims <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: Ektin Op Urims <marvin@42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/08/02 19:27:35 by Ektin Op Urims          #+#    #+#             */
-/*   Updated: 2023/08/08 16:12:26 by Ektin Op Urims         ###   ########.fr       */
+/*   Created: 2023/08/02 19:27:35 by Ektin Op Urims    #+#    #+#             */
+/*   Updated: 2023/08/08 16:12:26 by Ektin Op Urims   ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

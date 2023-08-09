@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_printf_bonus.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: Ektin Op Urims <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: Ektin Op Urims <marvin@42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/06/15 17:50:23 by Ektin Op Urims          #+#    #+#             */
-/*   Updated: 2023/07/31 16:58:44 by Ektin Op Urims         ###   ########.fr       */
+/*   Created: 2023/06/15 17:50:23 by Ektin Op Urims    #+#    #+#             */
+/*   Updated: 2023/07/31 16:58:44 by Ektin Op Urims   ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

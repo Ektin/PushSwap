@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   stack_operations.c                                 :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: Ektin Op Urims <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: Ektin Op Urims <marvin@42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/07/03 19:56:04 by Ektin Op Urims          #+#    #+#             */
-/*   Updated: 2023/07/31 17:26:54 by Ektin Op Urims         ###   ########.fr       */
+/*   Created: 2023/07/03 19:56:04 by Ektin Op Urims    #+#    #+#             */
+/*   Updated: 2023/07/31 17:26:54 by Ektin Op Urims   ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   normal_sort_operations_aux.c                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: Ektin Op Urims <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: Ektin Op Urims <marvin@42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/08/02 16:53:24 by Ektin Op Urims          #+#    #+#             */
-/*   Updated: 2023/08/02 16:58:30 by Ektin Op Urims         ###   ########.fr       */
+/*   Created: 2023/08/02 16:53:24 by Ektin Op Urims    #+#    #+#             */
+/*   Updated: 2023/08/02 16:58:30 by Ektin Op Urims   ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
