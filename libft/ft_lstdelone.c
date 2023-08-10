@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstdelone.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: Ektin Op Urims <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: Ektin Op Urims <marvin@42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/01/24 21:21:53 by Ektin Op Urims          #+#    #+#             */
-/*   Updated: 2023/02/03 22:42:29 by Ektin Op Urims         ###   ########.fr       */
+/*   Created: 2023/01/24 21:21:53 by Ektin Op Urims    #+#    #+#             */
+/*   Updated: 2023/02/03 22:42:29 by Ektin Op Urims   ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

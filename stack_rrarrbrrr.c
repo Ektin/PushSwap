@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   stack_rrarrbrrr.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: Ektin Op Urims <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: Ektin Op Urims <marvin@42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/07/03 22:08:01 by Ektin Op Urims          #+#    #+#             */
-/*   Updated: 2023/08/07 19:53:14 by Ektin Op Urims         ###   ########.fr       */
+/*   Created: 2023/07/03 22:08:01 by Ektin Op Urims    #+#    #+#             */
+/*   Updated: 2023/08/07 19:53:14 by Ektin Op Urims   ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

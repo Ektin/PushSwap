@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   raddix_sort.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: Ektin Op Urims <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: Ektin Op Urims <marvin@42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/08/06 20:30:53 by Ektin Op Urims          #+#    #+#             */
-/*   Updated: 2023/08/07 23:38:25 by Ektin Op Urims         ###   ########.fr       */
+/*   Created: 2023/08/06 20:30:53 by Ektin Op Urims    #+#    #+#             */
+/*   Updated: 2023/08/07 23:38:25 by Ektin Op Urims   ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

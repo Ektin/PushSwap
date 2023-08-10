@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: Ektin Op Urims <marvin@42.fr>                    +#+  +:+       +#+         #
+#    By: Ektin Op Urims <marvin@42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2023/06/15 15:04:27 by Ektin Op Urims          #+#    #+#              #
-#    Updated: 2023/08/08 15:50:37 by Ektin Op Urims         ###   ########.fr        #
+#    Created: 2023/06/15 15:04:27 by Ektin Op Urims    #+#    #+#              #
+#    Updated: 2023/08/08 15:50:37 by Ektin Op Urims   ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 

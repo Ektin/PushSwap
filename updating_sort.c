@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   updating_sort.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: Ektin Op Urims <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: Ektin Op Urims <marvin@42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/08/06 10:45:14 by Ektin Op Urims          #+#    #+#             */
-/*   Updated: 2023/08/07 23:33:53 by Ektin Op Urims         ###   ########.fr       */
+/*   Created: 2023/08/06 10:45:14 by Ektin Op Urims    #+#    #+#             */
+/*   Updated: 2023/08/07 23:33:53 by Ektin Op Urims   ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
